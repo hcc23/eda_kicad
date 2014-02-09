@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.3  Date: Sat 08 Feb 2014 09:41:57 PM EST
+#encoding utf-8
+#
+# MPU9150
+#
+DEF MPU9150 U 0 40 Y Y 1 F N
+F0 "U" 300 -400 60 H V C CNN
+F1 "MPU9150" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+S -400 300 400 -300 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
