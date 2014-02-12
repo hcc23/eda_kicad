@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Tue 11 Feb 2014 09:08:03 PM EST
+
+BeginCmp
+TimeStamp = /52FB122A;
+Reference = uC1;
+ValeurCmp = STM32F3;
+IdModule  = AB2_LQFP100;
+EndCmp
+
+EndListe

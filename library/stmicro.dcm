@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Tue 11 Feb 2014 08:47:13 PM EST
+#
+$CMP STM32F303VCT6
+D STMicroelectronics STM32F3 Micro Controller (STM32F303VCT6)
+K micro controller, STM32F3, F3
+$ENDCMP
+#
+#End Doc Library
