@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Thu 13 Feb 2014 03:35:56 PM EST
+
+BeginCmp
+TimeStamp = /52FC4DC1;
+Reference = DISCO1;
+ValeurCmp = STM32F3DISCOVERY;
+IdModule  = STMF3DISCOVERY;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FD11DA;
+Reference = PWM1;
+ValeurCmp = PWM_IN8;
+IdModule  = SERVO-8H-R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FD11FD;
+Reference = PWM2;
+ValeurCmp = PWM_OUT10;
+IdModule  = SERVO-10H-L;
+EndCmp
+
+EndListe
