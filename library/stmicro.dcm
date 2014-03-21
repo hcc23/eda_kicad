@@ -1,6 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 11 Feb 2014 08:47:13 PM EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 13 Feb 2014 12:42:42 AM EST
 #
 $CMP STM32F303VCT6
+D STMicroelectronics STM32F3 Micro Controller (STM32F303VCT6)
+K micro controller, STM32F3, F3
+$ENDCMP
+#
+$CMP STM32F3DISCOVERY
 D STMicroelectronics STM32F3 Micro Controller (STM32F303VCT6)
 K micro controller, STM32F3, F3
 $ENDCMP
