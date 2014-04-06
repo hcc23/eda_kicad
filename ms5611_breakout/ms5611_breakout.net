@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /home/claus/git/eda_kicad/ms5611_breakout/ms5611_breakout.sch)
-    (date "Sun 23 Mar 2014 10:46:25 PM EDT")
-    (tool "eeschema (2013-jul-07)-stable"))
+    (date "Sun 06 Apr 2014 02:20:56 PM EDT")
+    (tool "eeschema (2013-dec-23)-stable"))
   (components
     (comp (ref U1)
       (value MS5611)
