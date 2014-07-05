@@ -1,4 +1,4 @@
-(kicad_pcb (version 3) (host pcbnew "(2013-dec-23)-stable")
+(kicad_pcb (version 3) (host pcbnew "(2013-jul-07)-stable")
 
   (general
     (links 17)
@@ -357,10 +357,10 @@
   (gr_text SPI (at 351.282 236.474 90) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
-  (gr_text xEE (at 351.282 238.125 90) (layer F.SilkS)
+  (gr_text x77 (at 351.282 238.125 90) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
-  (gr_text xEC (at 351.282 240.665 90) (layer F.SilkS)
+  (gr_text x76 (at 351.282 240.665 90) (layer F.SilkS)
     (effects (font (size 0.508 0.508) (thickness 0.127)))
   )
   (gr_text I2C (at 351.282 233.934 90) (layer F.SilkS)
