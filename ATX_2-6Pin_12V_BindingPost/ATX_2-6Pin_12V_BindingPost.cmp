@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 03 Aug 2014 03:28:02 PM EDT
+
+BeginCmp
+TimeStamp = /53DE88BC;
+Reference = C1;
+ValeurCmp = MOLEX0026013116;
+IdModule  = molex0026013116;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE88C9;
+Reference = C2;
+ValeurCmp = MOLEX0026013116;
+IdModule  = molex0026013116;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE88AD;
+Reference = P1;
+ValeurCmp = POMANA6883;
+IdModule  = binding_post;
+EndCmp
+
+EndListe

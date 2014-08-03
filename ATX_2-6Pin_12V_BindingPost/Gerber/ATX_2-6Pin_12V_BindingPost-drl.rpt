@@ -1,0 +1,15 @@
+Drill report for /home/claus/git/hcc23/eda_kicad/ATX_2-6Pin_12V_BindingPost/ATX_2-6Pin_12V_BindingPost.kicad_pcb
+Created on Sun 03 Aug 2014 03:58:06 PM EDT
+Drill report for plated through holes :
+T1  1.80mm  0.071"  (12 holes)
+T2  5.00mm  0.197"  (2 holes)
+
+Total plated holes count 14
+
+
+Drill report for unplated through holes :
+T1  3.00mm  0.118"  (4 holes)
+
+Total unplated holes count 4
+
+
