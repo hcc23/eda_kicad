@@ -1,0 +1,43 @@
+(export (version D)
+  (design
+    (source /home/claus/git/hcc23/eda_kicad/patch_2400MHz/patch_2400MHz.sch)
+    (date "Sun 07 Sep 2014 06:59:17 PM EDT")
+    (tool "eeschema (2013-jul-07)-stable"))
+  (components
+    (comp (ref ANT1)
+      (value TAOGLAS-2400MHZ)
+      (libsource (lib taoglas) (part TAOGLAS-2400MHZ))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 540CE2DD))
+    (comp (ref P1)
+      (value COAX-RG185)
+      (libsource (lib taoglas) (part COAX-RG185))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 540CE2EC)))
+  (libparts
+    (libpart (lib taoglas) (part Coax-RG185)
+      (fields
+        (field (name Reference) P)
+        (field (name Value) Coax-RG185))
+      (pins
+        (pin (num 1) (name GND) (type input))
+        (pin (num 2) (name RF) (type BiDi))))
+    (libpart (lib taoglas) (part TAOGLAS-2400MHz)
+      (fields
+        (field (name Reference) ANT)
+        (field (name Value) TAOGLAS-2400MHz)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name GND) (type BiDi))
+        (pin (num 2) (name RF) (type BiDi)))))
+  (libraries
+    (library (logical taoglas)
+      (uri taoglas.lib)))
+  (nets
+    (net (code 1) (name /GND)
+      (node (ref ANT1) (pin 1))
+      (node (ref P1) (pin 1)))
+    (net (code 2) (name /RF)
+      (node (ref ANT1) (pin 2))
+      (node (ref P1) (pin 2)))))

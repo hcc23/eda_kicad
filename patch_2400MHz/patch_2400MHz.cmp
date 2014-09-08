@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 07 Sep 2014 07:44:00 PM EDT
+
+BeginCmp
+TimeStamp = /540CE2DD;
+Reference = ANT1;
+ValeurCmp = TAOGLAS-2400MHZ;
+IdModule  = WLP.2450.25.4.A.02;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE2EC;
+Reference = P1;
+ValeurCmp = COAX-RG185;
+IdModule  = RG185_Pad;
+EndCmp
+
+EndListe
